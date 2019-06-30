@@ -19,3 +19,6 @@ wifiスキャンするやつとか諸々はmacos組み込みのものを使っ�
 先述したtouchbarに現在接続しているssidを表示するやつだよ。  
 実態はただ現在接続しているwifiのssidを取ってきて整形して表示しているだけだよ。  
 
+# License
+MIT :copyright: 2357gi
+
