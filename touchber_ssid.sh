@@ -12,7 +12,7 @@ case "$state" in
         signal=""
         if [ $rssi -gt -50 ]; then
             signal="🤩"
-        elif [ $rssi -gt -50 ]; then
+        elif [ $rssi -gt -30 ]; then
             signal="😏"
         else
             signal="😇"
